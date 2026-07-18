@@ -1,0 +1,26 @@
+🗺️ What is the Living Lore Board?
+Think of this project as a "smart" digital corkboard for worldbuilders.
+
+Normally, when someone writes a fantasy book or runs a game of Dungeons & Dragons, they have to keep track of hundreds of characters, cities, and magical items using messy notebooks or boring spreadsheets.
+
+Your app turns that messy notebook into a highly visual, interactive map powered by AI.
+
+⚙️ What the App Actually Does
+You integrated three major AI features to do the heavy lifting for the user:
+
+The Visual Board: Users can drop "nodes" (cards representing characters, places, or items) onto a dark, sleek canvas and move them around.
+
+Instant Art Generation: When they type a description of a character (like Aelindra), your backend talks to the Pollinations API to instantly paint a custom, high-quality portrait of that character to put on the card.
+
+Automatic Storytelling: If the user draws a line connecting two characters, they can click a button, and the Google Gemini AI will instantly write a two-paragraph story explaining exactly how those two characters know each other.
+
+Smart Reading (Extraction): If a user pastes a massive page of text they already wrote, the AI reads it, picks out all the important nouns (people, places, factions), and automatically creates new cards for them on the board.
+
+💡 How It Helps People
+This tool is an absolute game-changer for Game Masters (DMs), fantasy authors, and game developers.
+
+It Cures Writer's Block: If an author doesn't know how two characters are related, the AI invents a cool backstory for them on the spot.
+
+It Saves Hours of Prep Time: Instead of spending hours hunting for character art on Google or Pinterest, the app paints exactly what the user imagines in five seconds.
+
+It Untangles Messy Lore: When a world has 50 characters and 20 cities, it gets confusing. Seeing them connected by visible strings on a board helps the creator instantly understand the politics and relationships in their own world.
